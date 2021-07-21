@@ -25,7 +25,7 @@ The aim of this project is to improve our collaborations skills to get us prepar
 - **src**
     - assets
     - html
-        -index.htm
+        - index.html
     - js
         -index.js
     - styles

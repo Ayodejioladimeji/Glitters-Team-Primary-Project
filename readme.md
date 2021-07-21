@@ -8,6 +8,10 @@
 The aim of this project is to improve our collaborations skills to get us prepared for the project phase of **Tiidelab** `cohort3.`
 
 
+### Template Link
+Open  [project template link](https://preview.themeforest.net/item/thebizone-and-multi-page-responsive-portfolio-corporate-business-creative-and-blog-template/full_screen_preview/19243050?_ga=2.251034117.249052931.1626776238-1159229094.1613176522) to view it in the browser.
+
+
 ### GUYS WE ARE WORKING ON THE DEVELOP BRANCH
 
 ## Contribution Guide

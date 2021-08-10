@@ -176,8 +176,8 @@ img {
 }
 
 
-  .flip .overlay {
-      position: fixed;
+  /* .flip .overlay {
+      position: absolute;
     top: 0;
     bottom: 0;
     left: 0;
@@ -203,7 +203,7 @@ img {
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     text-align: center;
-  } 
+  }  */
 
  
 /* THE END OF THE OUR PORTFOLIO SECTION */
